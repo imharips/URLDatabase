@@ -1,5 +1,5 @@
 # URLDatabase
- run the program using Main.java file
+ run the program using URLDatabase/src/Main.java file
  
 command - store
 -- will store the url in database ( which is list in my program)
